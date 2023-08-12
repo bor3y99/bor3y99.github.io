@@ -1,16 +1,17 @@
 html {
- background-image: url(https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg);
- color: white;
-}
-.link li {
-  text-decoration:underline;
-
-}
-
-.link li:hover {
-  curser:pointer;
-}
-
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg);
+    color: white;
+   }
+li h1 {
+     text-decoration: underline;
+   
+   }
+   
+li h1:hover {
+     cursor: pointer;
+   }
+   
 a {
-  display:inline-block;
-}
+     display:block;
+   }
+   
