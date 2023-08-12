@@ -2,3 +2,6 @@ html {
  background-image: url(https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg);
  color: white;
 }
+.link li {
+  text-decoration:undeline;
+}
