@@ -4,4 +4,9 @@ html {
 }
 .link li {
   text-decoration:undeline;
+
+}
+
+.link li:hover {
+  curser:pointer;
 }
