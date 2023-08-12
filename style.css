@@ -10,3 +10,7 @@ html {
 .link li:hover {
   curser:pointer;
 }
+
+a {
+  display:inline;
+}
